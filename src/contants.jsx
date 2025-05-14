@@ -98,6 +98,7 @@ export const education=[
     img:CS,
     school:"Chirst Global Residential School Hallehalli KK.",
     date:"June 2010 - March 2018.",
+    grade:"80%"
     desc:"I studied from 1st to 8th grade at Christ Global Residential School, Hallehalli, Karnataka. During these formative years, I built a strong academic foundation across all core subjects and actively participated in various co-curricular and extracurricular activities that contributed to my overall development.",
     degree:"Karnataka State Board(1st - 8th)"
   }
