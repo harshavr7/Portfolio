@@ -91,15 +91,15 @@ export const education=[
     date:"April 2018 - March 2020.",
     grade:"52.6%",
     desc:"I completed my 9th and 10th grade under the CBSE curriculum at Narayana Olympiad School, Kasturi Nagar, Bangalore (Karnataka). Alongside my regular academics, I was also introduced to early preparation for competitive exams like the Joint Entrance Examination (JEE), which helped build a strong foundation in Mathematics and Science from an early stage.",
-    degree:"CBSE(X) "
+    degree:"CBSE(X)."
   },
   {
     id:4,
     img:CS,
     school:"Chirst Global Residential School Hallehalli KK.",
     date:"June 2010 - March 2018.",
-    grade:"80%"
+    grade:"80%.",
     desc:"I studied from 1st to 8th grade at Christ Global Residential School, Hallehalli, Karnataka. During these formative years, I built a strong academic foundation across all core subjects and actively participated in various co-curricular and extracurricular activities that contributed to my overall development.",
-    degree:"Karnataka State Board(1st - 8th)"
+    degree:"Karnataka State Board(1st - 8th)."
   }
 ];
